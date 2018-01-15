@@ -16,6 +16,7 @@ RUN \
 	perl-json \
 	perl-json-maybexs \
 	perl-lwp-useragent-determined \
+	perl-lwp-protocol-https \
 	wget && \
  apk add --no-cache \
  	--repository http://nl.alpinelinux.org/alpine/edge/testing \
